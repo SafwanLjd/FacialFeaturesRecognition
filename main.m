@@ -9,7 +9,7 @@ function main()
     COLOR6 = [0.60, 0.60, 0.60];
 
     % Define a default image path
-    imageFile = "pics/abdalal-small.jpg";
+    imageFile = "test-images/mr-bean.jpg";
 
 
     % The following few lines initialize the GUI
