@@ -1,5 +1,7 @@
 # Facial Feature Detection Tool
 
+![Screenshot of the Tool](screenshot.png)
+
 ## Introduction
 This Facial Feature Detection Tool is developed for the Computer Vision course at the University of Jordan. It employs image processing centered approach to detect facial features, and uses the Viola-Jones algorithm for the actual detection.
 
